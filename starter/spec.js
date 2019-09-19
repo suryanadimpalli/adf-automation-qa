@@ -3,7 +3,7 @@
 describe('ADF Demo App', function() {
 
  it('test', function() {
-  browser.ignoreSynchronization = true;  // for non-angular websites
+  browser.ignoreSynchronization = true;
 
 
 browser.get(' http://qaexercise.envalfresco.com/settings');
